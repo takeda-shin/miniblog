@@ -38,7 +38,7 @@ Things you may want to cover:
 ## articlesテーブル
 |column|Type|Options|
 |------|----|-------|
-|text|string|null: false|
+|text|text|null: false|
 |user_id|integer|null: false, foreign_key: true|
 
 ### Association
